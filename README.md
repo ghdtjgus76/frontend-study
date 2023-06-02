@@ -1,2 +1,2 @@
 # frontend-study
-# redux, typescript, next.js
+## redux, typescript, next.js
